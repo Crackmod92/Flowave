@@ -1,0 +1,7 @@
+<!-- app/src/main/res/values/themes.xml -->
+<resources>
+    <!-- Базовая тема приложения. Убедимся, что родитель НЕ Theme.Material3...DynamicColors... -->
+    <style name="Theme.Flowave" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Оставляем это место пустым. Всю магию сделаем в коде. -->
+    </style>
+</resources>

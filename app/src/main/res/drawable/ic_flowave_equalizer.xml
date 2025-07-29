@@ -1,0 +1,39 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24"
+    android:tint="?attr/colorOnSurface">
+
+    <!-- 6 полосок эквалайзера разной высоты -->
+
+    <!-- Полоска 1 -->
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M2,16 L4,16 L4,22 L2,22 Z" />
+
+    <!-- Полоска 2 -->
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M6,12 L8,12 L8,22 L6,22 Z" />
+
+    <!-- Полоска 3 (самая высокая) -->
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M10,6 L12,6 L12,22 L10,22 Z" />
+
+    <!-- Полоска 4 -->
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M14,10 L16,10 L16,22 L14,22 Z" />
+
+    <!-- Полоска 5 -->
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M18,14 L20,14 L20,22 L18,22 Z" />
+
+    <!-- Полоска 6 -->
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M22,18 L24,18 L24,22 L22,22 Z" />
+</vector>
